@@ -2,7 +2,6 @@
 
 ## Quick Refrences
 ### Maintenance Guide
-If this version does not render well on your device see non tabular version here. TODO
 <details markdown="1"><summary>Quick Maintenace Guide</summary>
 
 |                      	|   Cleaning                     	|   Drying        	|   Wrinkles, Hang Dry   	|   Creases                                                                        	|   Storage  	|
