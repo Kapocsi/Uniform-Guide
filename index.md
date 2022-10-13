@@ -168,6 +168,8 @@ Double-check the setting on your iron to ensure you are ironing at an appropriat
 
 </details>
 
+## Contributing
+This Project is Open-Source! Please submit a pull request if you feel something is missing or needs refinement. See the [GitHub](https://github.com/kapocsi/uniform-guide) page for more details.
 
 ## Acknowledgments
 CSS style provided by [jasonm23](https://github.com/jasonm23/markdown-css-themes)
